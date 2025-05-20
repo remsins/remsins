@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Machine Learning Engineer and Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR6eWxubHgxN3Z3YjJjaHJhbmdtMTRwZnp4aDA1dzlleGZpNHc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7ZerdezTT72sWC1W/giphy.gif">
 
-- 🔭 I’m currently working on **Webscraping**
+- 🔭 I’m currently working on **Web Scraping**
 
 - 🌱 Currently diving deeper into **Advanced Machine Learning**.
 - 🎯 Goal: Build impactful tech that blends **intelligence** and **creativity**
